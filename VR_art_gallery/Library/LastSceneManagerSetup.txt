@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Brick Project Studio/Apartment Kit/Scenes/Scene_01.unity
+- path: Assets/Samples/XR Interaction Toolkit/2.5.4/Starter Assets/vr art gallery.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
