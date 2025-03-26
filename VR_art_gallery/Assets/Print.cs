@@ -9,7 +9,11 @@ public class print : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+            textO.SetActive(false);
+            Debug.Log("hi" );
+
+
+
     }
 
     // Update is called once per frame
