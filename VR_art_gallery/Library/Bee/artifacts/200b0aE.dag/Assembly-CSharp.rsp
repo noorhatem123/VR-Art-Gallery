@@ -403,6 +403,7 @@
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow1.cs"
 "Assets/Print.cs"
 "Assets/Scripts/ArtworkInteraction.cs"
+"Assets/Scripts/interaction/interactor.cs"
 "Assets/Scripts/plateaudio.cs"
 -langversion:9.0
 
