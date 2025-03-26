@@ -401,6 +401,7 @@
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/First Person Player/SceneSwitchGen.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow.cs"
 "Assets/Brick Project Studio/_BPS Basic Assets/Common/Scripts and Animations/Windows/opencloseWindow1.cs"
+"Assets/Light.cs"
 "Assets/Print.cs"
 "Assets/Scripts/ArtworkInteraction.cs"
 "Assets/Scripts/interaction/interactor.cs"
